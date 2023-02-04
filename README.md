@@ -1,169 +1,170 @@
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema 01" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="LAT - Cine TV",Cine TV: Cinema 01
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/24944
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema 03" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="LAT - Cine TV",Cine TV: Cinema 03
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/24946
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema 04" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="LAT - Cine TV",Cine TV: Cinema 04
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/24947
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema 05" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="LAT - Cine TV",Cine TV: Cinema 05
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/24948
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema 06" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="LAT - Cine TV",Cine TV: Cinema 06
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/24949
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema 07" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="LAT - Cine TV",Cine TV: Cinema 07
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/24950
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema 08" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="LAT - Cine TV",Cine TV: Cinema 08
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/24951
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema 09" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="LAT - Cine TV",Cine TV: Cinema 09
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/24952
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema 10" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="LAT - Cine TV",Cine TV: Cinema 10
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/24953
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema 11" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="LAT - Cine TV",Cine TV: Cinema 11
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/24954
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema 12" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="LAT - Cine TV",Cine TV: Cinema 12
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/24955
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema 13" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="LAT - Cine TV",Cine TV: Cinema 13
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/24956
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema 14" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="LAT - Cine TV",Cine TV: Cinema 14
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/24957
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema 15" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="LAT - Cine TV",Cine TV: Cinema 15
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/24958
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema 16" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="LAT - Cine TV",Cine TV: Cinema 16
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/24959
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema 17" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="LAT - Cine TV",Cine TV: Cinema 17
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/24960
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema 18" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="LAT - Cine TV",Cine TV: Cinema 18
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/24961
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema 19" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="LAT - Cine TV",Cine TV: Cinema 19
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/24962
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema 20" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="LAT - Cine TV",Cine TV: Cinema 20
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/24963
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema 21" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="LAT - Cine TV",Cine TV: Cinema 21
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/24964
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema 22" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="LAT - Cine TV",Cine TV: Cinema 22
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/24965
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema 23" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="LAT - Cine TV",Cine TV: Cinema 23
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/24966
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema 24" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="LAT - Cine TV",Cine TV: Cinema 24
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/24967
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema 25" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="LAT - Cine TV",Cine TV: Cinema 25
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/24968
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema 26" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="LAT - Cine TV",Cine TV: Cinema 26
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/24969
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema 27" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="LAT - Cine TV",Cine TV: Cinema 27
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/24970
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema 28" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="LAT - Cine TV",Cine TV: Cinema 28
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/24971
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema 29" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="LAT - Cine TV",Cine TV: Cinema 29
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/24972
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema 30" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="LAT - Cine TV",Cine TV: Cinema 30
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/24973
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema 31" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="LAT - Cine TV",Cine TV: Cinema 31
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/24974
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema 32" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="LAT - Cine TV",Cine TV: Cinema 32
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/24975
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema 33" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="LAT - Cine TV",Cine TV: Cinema 33
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/24976
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema 34" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="LAT - Cine TV",Cine TV: Cinema 34
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/24977
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema 35" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="LAT - Cine TV",Cine TV: Cinema 35
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/24978
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema 36" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="LAT - Cine TV",Cine TV: Cinema 36
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/24979
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema 37" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="LAT - Cine TV",Cine TV: Cinema 37
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/24980
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Starz Black HD" tvg-logo="https://static.epg.best/us/StarzInBlack.us.png" group-title="LAT - Cine TV",Cine TV: Starz Black HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/363792
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Starz Encore Suspense HD" tvg-logo="https://png.pngitem.com/pimgs/s/277-2770658_transparent-starz-png-starz-encore-suspense-logo-png.png" group-title="LAT - Cine TV",Cine TV: Starz Encore Suspense HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/363818
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Starz Encore Español" tvg-logo="https://p.kindpng.com/picc/s/412-4120429_starz-encore-logo-transparent-hd-png-download.png" group-title="LAT - Cine TV",Cine TV: Starz Encore Español
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/363819
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema Happy Madison Full HD" tvg-logo="http://tvgolatino.com:8080/images/8a82b14cca5233aa4c7ee4b4bbf8eb9d.png" group-title="LAT - Cine TV",Cine TV: Cinema Happy Madison Full HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/36602
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema SciFi Full HD" tvg-logo="http://tvgolatino.com:8080/images/d51036438759ad7d5d0e1f5061f45d30.png" group-title="LAT - Cine TV",Cine TV: Cinema SciFi Full HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/36603
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema Familia Full HD" tvg-logo="http://tvgolatino.com:8080/images/d6d6a1d4210d4ff9a23e85ea34b93814.png" group-title="LAT - Cine TV",Cine TV: Cinema Familia Full HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/36604
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema Horror Full HD" tvg-logo="http://tvgolatino.com:8080/images/d5cd25318a20067ffe90dc114f2c08af.png" group-title="LAT - Cine TV",Cine TV: Cinema Horror Full HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/36605
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema Acción Clásicos Full HD" tvg-logo="http://tvgolatino.com:8080/images/3f3f487f354531d18ab4bc7a0516b0da.png" group-title="LAT - Cine TV",Cine TV: Cinema Acción Clásicos Full HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/36606
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema Disney Familia Full HD" tvg-logo="http://tvgolatino.com:8080/images/112d9af8b15187c414cdb92768a4a754.png" group-title="LAT - Cine TV",Cine TV: Cinema Disney Familia Full HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/36608
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema Disney Pixar Full HD" tvg-logo="http://tvgolatino.com:8080/images/94a9eb83d18b3814fa98114dfba69ddd.png" group-title="LAT - Cine TV",Cine TV: Cinema Disney Pixar Full HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/36609
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema Dreamworks Full HD" tvg-logo="http://tvgolatino.com:8080/images/8e3d7dbf9b74a91866dbbd96cd6a1efb.png" group-title="LAT - Cine TV",Cine TV: Cinema Dreamworks Full HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/36610
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema DC Universe Full HD" tvg-logo="http://tvgolatino.com:8080/images/f9643bdd09934a00d223babc110d0fa3.png" group-title="LAT - Cine TV",Cine TV: Cinema DC Universe Full HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/36611
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema DC Comics Full HD" tvg-logo="http://tvgolatino.com:8080/images/42af6cd1924521c67bd3067e07e5be34.png" group-title="LAT - Cine TV",Cine TV: Cinema DC Comics Full HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/36612
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema Anime Full HD" tvg-logo="http://tvgolatino.com:8080/images/1633cb5b42c4d3a214fcac8492c3826b.png" group-title="LAT - Cine TV",Cine TV: Cinema Anime Full HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/74304
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema Navidad Full HD" tvg-logo="http://tvgolatino.com:8080/images/d1cdbbc310645175209fdc02f39da2f5.png" group-title="LAT - Cine TV",Cine TV: Cinema Navidad Full HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/74306
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema Horror Clasicos Full HD" tvg-logo="http://tvgolatino.com:8080/images/d5cd25318a20067ffe90dc114f2c08af.png" group-title="LAT - Cine TV",Cine TV: Cinema Horror Clasicos Full HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/74388
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema Marvel Studios Este" tvg-logo="" group-title="LAT - Cine TV",Cine TV: Cinema Marvel Studios Este
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/127150
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema Marvel Studios Oeste" tvg-logo="" group-title="LAT - Cine TV",Cine TV: Cinema Marvel Studios Oeste
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/127151
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Movie Center Premiun West Full HD" tvg-logo="http://tvgolatino.com:8080/images/aed34b9f60ee115dfa7918b742336277.png" group-title="LAT - Cine TV",Cine TV: Movie Center Premiun West Full HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/36598
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Movie Center Premiun  East Full HD" tvg-logo="http://tvgolatino.com:8080/images/aed34b9f60ee115dfa7918b742336277.png" group-title="LAT - Cine TV",Cine TV: Movie Center Premiun  East Full HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/36600
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Movie Center Premiun FHD" tvg-logo="http://tvgolatino.com:8080/images/c2d442fd83d51b753836ec221b71d3c3.png" group-title="LAT - Cine TV",Cine TV: Movie Center Premiun FHD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/74305
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Run:Time 1 HD" tvg-logo="" group-title="LAT - Cine TV",Cine TV: Run:Time 1 HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/228167
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Sr Cine Batallas Mitologicas HD" tvg-logo="" group-title="LAT - Cine TV",Cine TV: Sr Cine Batallas Mitologicas HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/313525
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Sr Cine Marvel Studios Animado HD" tvg-logo="http://swedtv.com/logo/Sr-cine-3.png" group-title="LAT - Cine TV",Cine TV: Sr Cine Marvel Studios Animado HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/71722
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Sr Cine DC Comics HD" tvg-logo="http://swedtv.com/logo/Sr-cine-3.png" group-title="LAT - Cine TV",Cine TV: Sr Cine DC Comics HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/71731
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Sr Cine Gigantes HD" tvg-logo="http://swedtv.com/logo/Sr-cine-3.png" group-title="LAT - Cine TV",Cine TV: Sr Cine Gigantes HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/71750
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Sr Cine Momias HD" tvg-logo="http://swedtv.com/logo/Sr-cine-3.png" group-title="LAT - Cine TV",Cine TV: Sr Cine Momias HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/73495
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Sr Cine Brujas HD" tvg-logo="http://swedtv.com/logo/Sr-cine-3.png" group-title="LAT - Cine TV",Cine TV: Sr Cine Brujas HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/73527
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Sr Cine Vampiros HD" tvg-logo="http://swedtv.com/logo/Sr-cine-3.png" group-title="LAT - Cine TV",Cine TV: Sr Cine Vampiros HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/74124
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Sr Cine Robots HD" tvg-logo="http://swedtv.com/logo/Sr-cine-3.png" group-title="LAT - Cine TV",Cine TV: Sr Cine Robots HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/75315
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Sr Cine DC Film HD" tvg-logo="http://swedtv.com/logo/Sr-cine-3.png" group-title="LAT - Cine TV",Cine TV: Sr Cine DC Film HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/77337
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Sr Cine Dioses HD" tvg-logo="http://tvgo.re:8080/images/9d6c8f658cd8b1f95da4e21c2ae9b786.png" group-title="LAT - Cine TV",Cine TV: Sr Cine Dioses HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/77653
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Sr Cine 60fps Acción HD" tvg-logo="http://swedtv.com/logo/Sr-cine-3.png" group-title="LAT - Cine TV",Cine TV: Sr Cine 60fps Acción HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/85598
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Sr Cine Navidad "Familiar" HD" tvg-logo="http://swedtv.com/logo/Sr-cine-3.png" group-title="LAT - Cine TV",Cine TV: Sr Cine Navidad "Familiar" HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/102269
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Sr Cine Navidad "Caricaturas" HD" tvg-logo="http://swedtv.com/logo/Sr-cine-3.png" group-title="LAT - Cine TV",Cine TV: Sr Cine Navidad "Caricaturas" HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/102307
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Sr Cine Studio Ghibli HD" tvg-logo="http://tvgolatino.com:8080/images/9d6c8f658cd8b1f95da4e21c2ae9b786.png" group-title="LAT - Cine TV",Cine TV: Sr Cine Studio Ghibli HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/113808
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema Marvel Animated " tvg-logo="" group-title="LAT - Cine TV",Cine TV: Cinema Marvel Animated 
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/127148
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema Marvel Studios" tvg-logo="" group-title="LAT - Cine TV",Cine TV: Cinema Marvel Studios
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/127149
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Movie Center Kids Full HD" tvg-logo="" group-title="LAT - Cine TV",Cine TV: Movie Center Kids Full HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/36599
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: A Estrenar Full HD" tvg-logo="" group-title="LAT - Cine TV",Cine TV: A Estrenar Full HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/36596
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Filmo Clint Eastwood HD" tvg-logo="" group-title="LAT - Cine TV",Cine TV: Filmo Clint Eastwood HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/127540
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Filmo Adam Sandler HD" tvg-logo="" group-title="LAT - Cine TV",Cine TV: Filmo Adam Sandler HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/127541
+#EXTINF:-1,PELIS 24
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24/7 PELICULAS ESTRENOS 2022" tvg-logo="" group-title="TV | 24/7 Peliculas",24/7 PELICULAS ESTRENOS 2022
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2133347
+#EXTINF:-1 tvg-id="" tvg-name="24/7 M| Cinema 01" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png" group-title="TV | 24/7 Peliculas",24/7 M| Cinema 01
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/210808
+#EXTINF:-1 tvg-id="" tvg-name="24/7 M| Cinema 05" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png" group-title="TV | 24/7 Peliculas",24/7 M| Cinema 05
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/210812
+#EXTINF:-1 tvg-id="" tvg-name="24/7 M| Cinema 07" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png" group-title="TV | 24/7 Peliculas",24/7 M| Cinema 07
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/210814
+#EXTINF:-1 tvg-id="" tvg-name="24/7 M| Cinema 08" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png" group-title="TV | 24/7 Peliculas",24/7 M| Cinema 08
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/210815
+#EXTINF:-1 tvg-id="" tvg-name="24/7 M| Cinema 13" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png" group-title="TV | 24/7 Peliculas",24/7 M| Cinema 13
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/210820
+#EXTINF:-1 tvg-id="" tvg-name="24/7 M| Cinema 16" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png" group-title="TV | 24/7 Peliculas",24/7 M| Cinema 16
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/210823
+#EXTINF:-1 tvg-id="" tvg-name="24/7 M| Cinema 24" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png" group-title="TV | 24/7 Peliculas",24/7 M| Cinema 24
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/210831
 
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Sr Cine Películas Cristianas HD" tvg-logo="" group-title="LAT - Cine TV",Cine TV: Sr Cine Películas Cristianas HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/160622
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Sr Cine Zombies HD" tvg-logo="http://tvgolatino.com:8080/images/9d6c8f658cd8b1f95da4e21c2ae9b786.png" group-title="LAT - Cine TV",Cine TV: Sr Cine Zombies HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/69259
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Sr Cine Extraterrestres HD" tvg-logo="http://swedtv.com/logo/Sr-cine-3.png" group-title="LAT - Cine TV",Cine TV: Sr Cine Extraterrestres HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/69261
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema Comedia Full HD" tvg-logo="http://tvgolatino.com:8080/images/b303a75e28758f314e26bb9111bda457.png" group-title="LAT - Cine TV",Cine TV: Cinema Comedia Full HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/36597
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Cinema 02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUdFMbgP3G4rxSH_i-qT8BOGQrM6NhD3iaLHuMIXkGrhumn8zq&s" group-title="LAT - Cine TV",Cine TV: Cinema 02
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/24945
-#EXTINF:-1 tvg-id="" tvg-name="Cine TV: Sr Cine Marvel Studios HD" tvg-logo="http://swedtv.com/logo/Sr-cine-3.png" group-title="LAT - Cine TV",Cine TV: Sr Cine Marvel Studios HD
-http://megatitan.net:8080/Victorsepulveda53/VfmdXeFurCKB/70964
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Smallville" tvg-logo="http://atlantis-mx.com/logos/smalville24.png" group-title="TV | 24/7 Series",24/7: Smallville
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2091024
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Friends" tvg-logo="http://atlantis-mx.com/logos/friends.png" group-title="TV | 24/7 Series",24/7 Friends
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/223069
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Auto Fantastico" tvg-logo="http://l3d.us:25461/images/2424b5fe85d4c50cf04daf345531e28f.png" group-title="TV | 24/7 Retro",24/7 El Auto Fantastico
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090982
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Johnny Bravo" tvg-logo="http://l3d.us:25461/images/fd9ab41e47a9ef4f6477a8a000bf404f.png" group-title="TV | 24/7 Infantil",24/7 | Johnny Bravo
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090888
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Chespirito" tvg-logo="http://l3d.us:25461/images/2424b5fe85d4c50cf04daf345531e28f.png" group-title="TV | 24/7 Retro",24/7 Chespirito
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090979
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Garfield" tvg-logo="http://l3d.us:25461/images/2424b5fe85d4c50cf04daf345531e28f.png" group-title="TV | 24/7 Retro",24/7 Garfield
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090963
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | La Hora Pico" tvg-logo="http://atlantis-mx.com/logos/horapico24.png" group-title="TV | 24/7 Series",24/7 | La Hora Pico
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2091011
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | La Ninera" tvg-logo="http://l3d.us:25461/images/2424b5fe85d4c50cf04daf345531e28f.png" group-title="TV | 24/7 Retro",24/7 | La Ninera
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090977
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | La Pantera Rosa" tvg-logo="http://l3d.us:25461/images/2424b5fe85d4c50cf04daf345531e28f.png" group-title="TV | 24/7 Retro",24/7 | La Pantera Rosa
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090971
+#EXTINF:-1 tvg-id="" tvg-name="24/7: pinky" tvg-logo="http://l3d.us:25461/images/8fa14cdd754f91cc6554c9e71929cce7.png" group-title="TV | 24/7 Infantil",24/7: pinky
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090901
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Cantinflas " tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png" group-title="TV | 24/7 Peliculas",24/7 Cantinflas 
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090937
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Capitan America y Los Planetarios" tvg-logo="http://l3d.us:25461/images/2424b5fe85d4c50cf04daf345531e28f.png" group-title="TV | 24/7 Retro",24/7 Capitan America y Los Planetarios
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090954
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Donde esta Wally" tvg-logo="http://l3d.us:25461/images/2424b5fe85d4c50cf04daf345531e28f.png" group-title="TV | 24/7 Retro",24/7 Donde esta Wally
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090955
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Caso Cerrado " tvg-logo="http://l3d.us:25461/images/4d74e58f3b1bd300b6fe9eebc081d794.png" group-title="TV | 24/7 Series",24/7 Caso Cerrado 
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/189868
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Gargolas Heroes Goticos" tvg-logo="http://l3d.us:25461/images/2424b5fe85d4c50cf04daf345531e28f.png" group-title="TV | 24/7 Retro",24/7 Gargolas Heroes Goticos
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090964
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Gasparin y sus Amigos" tvg-logo="http://l3d.us:25461/images/2424b5fe85d4c50cf04daf345531e28f.png" group-title="TV | 24/7 Retro",24/7 Gasparin y sus Amigos
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090965
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Halcones Galacticos" tvg-logo="http://l3d.us:25461/images/2424b5fe85d4c50cf04daf345531e28f.png" group-title="TV | 24/7 Retro",24/7 Halcones Galacticos
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090966
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Halo" tvg-logo="http://l3d.us:25461/images/57f842286171094855e51fc3a541c1e2.png" group-title="TV | 24/7 Series",24/7 Halo
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2133343
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hannah Montana Temp 1" tvg-logo="http://l3d.us:25461/images/300bf52dd231262bc2b99237e727246d.png" group-title="TV | 24/7 Infantil",24/7 Hannah Montana Temp 1
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090904
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Harry Potter & Animales Fantásticos" tvg-logo="http://l3d.us:25461/images/d09064ee2729bdb155714b50274e1ba6.png" group-title="TV | 24/7 Peliculas",24/7 Harry Potter & Animales Fantásticos
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2106722
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Heidi" tvg-logo="http://l3d.us:25461/images/2424b5fe85d4c50cf04daf345531e28f.png" group-title="TV | 24/7 Retro",24/7 Heidi
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090967
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Hey Arnold" tvg-logo="http://l3d.us:25461/images/8277e0910d750195b448797616e091ad.png" group-title="TV | 24/7 Infantil",24/7 Hey Arnold
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090905
+#EXTINF:-1 tvg-id="" tvg-name="24/7 HISTORIAS" tvg-logo="http://l3d.us:25461/images/ccf4f52fdc28178e4231bfcde4f0ec73.png" group-title="TV | 24/7 Infantil",24/7 HISTORIAS
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2091360
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La casa de los Dibujos" tvg-logo="http://l3d.us:25461/images/dc361626e940b97ff32f83a04cf68818.png" group-title="TV | 24/7 Series",24/7 La casa de los Dibujos
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2091492
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Casa de Papel Corea" tvg-logo="http://l3d.us:25461/images/a337374b7ec2904318d1657d8bbb90a2.png" group-title="TV | 24/7 Series",24/7 La Casa de Papel Corea
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2133346
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Familia P. Luche " tvg-logo="http://atlantis-mx.com/logos/familiapeluche24.png" group-title="TV | 24/7 Series",24/7 La Familia P. Luche 
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/200378
+#EXTINF:-1 tvg-id="" tvg-name="24/7 La Rosa de Guadalupe" tvg-logo="http://atlantis-mx.com/logos/rosa24.png" group-title="TV | 24/7 Series",24/7 La Rosa de Guadalupe
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/180593
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Las Pistas de Blue" tvg-logo="http://l3d.us:25461/images/48d6215903dff56238e52e8891380c8f.png" group-title="TV | 24/7 Infantil",24/7 Las Pistas de Blue
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090906
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Años Maravillosos" tvg-logo="http://l3d.us:25461/images/2424b5fe85d4c50cf04daf345531e28f.png" group-title="TV | 24/7 Retro",24/7 Los Años Maravillosos
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090984
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Backyardigans" tvg-logo="http://l3d.us:25461/images/172e248496031e3eb5189928d76fed2c.png" group-title="TV | 24/7 Infantil",24/7 Los Backyardigans
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090907
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Castores Cascarrabias" tvg-logo="http://l3d.us:25461/images/f0e2d2459bd4a59c37eff636850da808.png" group-title="TV | 24/7 Infantil",24/7 Los Castores Cascarrabias
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090908
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Muppet Babys" tvg-logo="http://l3d.us:25461/images/0ef326551aae8c1166112411ae45de2a.png" group-title="TV | 24/7 Infantil",24/7 Los Muppet Babys
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090910
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Padrinos Magicos" tvg-logo="http://l3d.us:25461/images/6d2bbf8de91f746e82c8d55715374780.png" group-title="TV | 24/7 Infantil",24/7 Los Padrinos Magicos
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090909
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Los Supersonicos" tvg-logo="http://l3d.us:25461/images/2424b5fe85d4c50cf04daf345531e28f.png" group-title="TV | 24/7 Retro",24/7 Los Supersonicos
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090990
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Paw Patroll" tvg-logo="http://l3d.us:25461/images/d8d3aedd4b5d0ce0131600eaadc48dcb.png" group-title="TV | 24/7 Infantil",24/7 Paw Patroll
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090912
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Pedro Infante" tvg-logo="http://l3d.us:8080/images/d09064ee2729bdb155714b50274e1ba6.png" group-title="TV | 24/7 Peliculas",24/7 Pedro Infante
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090942
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Scooby Doo" tvg-logo="http://l3d.us:25461/images/1d50b77d4aa76c5115d441a4994b9845.png" group-title="TV | 24/7 Infantil",24/7 Scooby Doo
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090914
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Shark Thank" tvg-logo="" group-title="TV | 24/7 Series",24/7 Shark Thank
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2133765
+#EXTINF:-1 tvg-id="" tvg-name="24/7 S| Alerta Aeropuerto" tvg-logo="http://l3d.us:25461/images/7051dd9d565e17dbdb669495fe36d3e2.png" group-title="TV | 24/7 Series",24/7 S| Alerta Aeropuerto
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/203977
+#EXTINF:-1 tvg-id="" tvg-name="24/7 The Flash" tvg-logo="http://l3d.us:25461/images/a39401275d1b300aa789fb22aea4148a.png" group-title="TV | 24/7 Series",24/7 The Flash
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2133349
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Tom Y Jerry" tvg-logo="http://l3d.us:25461/images/34b7da764b21d298ef307d04d8152dc5.png" group-title="TV | 24/7 Infantil",24/7 Tom Y Jerry
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090915
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Vecinos " tvg-logo="http://atlantis-mx.com/logos/vecinos24.png" group-title="TV | 24/7 Series",24/7 Vecinos 
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/189870
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Xena La Princesa Guerrera Temp 1" tvg-logo="http://l3d.us:25461/images/2424b5fe85d4c50cf04daf345531e28f.png" group-title="TV | 24/7 Retro",24/7 Xena La Princesa Guerrera Temp 1
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090986
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Alf" tvg-logo="http://l3d.us:25461/images/2424b5fe85d4c50cf04daf345531e28f.png" group-title="TV | 24/7 Retro",24/7 | Alf
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090973
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Coraje El Perro Cobarde" tvg-logo="http://l3d.us:25461/images/4072cdd0853fd00bf06dc5606f903796.png" group-title="TV | 24/7 Infantil",24/7 | Coraje El Perro Cobarde
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090877
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Castores Cascarravias" tvg-logo="http://l3d.us:25461/images/f0e2d2459bd4a59c37eff636850da808.png" group-title="TV | 24/7 Infantil",24/7 | Castores Cascarravias
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090875
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Cat Dog" tvg-logo="http://l3d.us:25461/images/5e6432dc54319f45837bc30a4e4f3cfa.png" group-title="TV | 24/7 Infantil",24/7 | Cat Dog
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090876
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Desafío de fuego" tvg-logo="http://atlantis-mx.com/logos/desafio24.png" group-title="TV | 24/7 Series",24/7 | Desafío de fuego
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090992
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DesEncanto" tvg-logo="http://atlantis-mx.com/logos/desencanto24.png" group-title="TV | 24/7 Series",24/7 | DesEncanto
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090996
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dinosaurios" tvg-logo="http://l3d.us:25461/images/7bf7018581a8bbf371d0c3d3ee92f9e8.png" group-title="TV | 24/7 Retro",24/7 | Dinosaurios
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090879
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | DON GATO Y SU PANDILLA" tvg-logo="http://l3d.us:25461/images/2424b5fe85d4c50cf04daf345531e28f.png" group-title="TV | 24/7 Retro",24/7 | DON GATO Y SU PANDILLA
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090953
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dora la Exploradora" tvg-logo="http://l3d.us:25461/images/585a6a314575f9792df621b0c598a37a.png" group-title="TV | 24/7 Infantil",24/7 | Dora la Exploradora
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090880
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Dr. House" tvg-logo="http://atlantis-mx.com/logos/drhouse24.png" group-title="TV | 24/7 Series",24/7 | Dr. House
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090997
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | El Chavo Animado" tvg-logo="http://l3d.us:25461/images/363b122c528f54df4a0446b6bab05515.png" group-title="TV | 24/7 Infantil",24/7 | El Chavo Animado
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090881
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | El Coyote y el Correcaminos" tvg-logo="http://l3d.us:25461/images/2424b5fe85d4c50cf04daf345531e28f.png" group-title="TV | 24/7 Retro",24/7 | El Coyote y el Correcaminos
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090952
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | El Pajaro Loco" tvg-logo="http://l3d.us:25461/images/2db95e8e1a9267b7a1188556b2013b33.png" group-title="TV | 24/7 Infantil",24/7 | El Pajaro Loco
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090884
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Escandalosos" tvg-logo="http://l3d.us:25461/images/16c9583aee76a0d5cd47ff3dbadaf44b.png" group-title="TV | 24/7 Infantil",24/7 | Escandalosos
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090886
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | GRAVITY FALL" tvg-logo="http://l3d.us:25461/images/92eb5ffee6ae2fec3ad71c777531578f.png" group-title="TV | 24/7 Infantil",24/7 | GRAVITY FALL
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090903
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | La Casa de Papel" tvg-logo="http://l3d.us:25461/images/b1b0825b90550d3246ed5bcc44f4aadc.png" group-title="TV | 24/7 Series",24/7 | La Casa de Papel
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2091009
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Le Temes a la Oscuridad" tvg-logo="http://l3d.us:25461/images/2424b5fe85d4c50cf04daf345531e28f.png" group-title="TV | 24/7 Retro",24/7 | Le Temes a la Oscuridad
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090972
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Picapiedra" tvg-logo="http://l3d.us:25461/images/2424b5fe85d4c50cf04daf345531e28f.png" group-title="TV | 24/7 Retro",24/7 | Los Picapiedra
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090989
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Simpson" tvg-logo="http://l3d.us:25461/images/9fc7097a66ed01550abc06fc9ad2246c.png" group-title="TV | 24/7 Series",24/7 | Los Simpson
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2091013
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Simpsons Casitas del Horror" tvg-logo="http://atlantis-mx.com/logos/simpsonscasita.png" group-title="TV | 24/7 Series",24/7 | Los Simpsons Casitas del Horror
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2091016
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Thundercats" tvg-logo="http://l3d.us:25461/images/2424b5fe85d4c50cf04daf345531e28f.png" group-title="TV | 24/7 Retro",24/7 | Los Thundercats
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090987
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Mi Bella Genio" tvg-logo="http://l3d.us:25461/images/2424b5fe85d4c50cf04daf345531e28f.png" group-title="TV | 24/7 Retro",24/7 | Mi Bella Genio
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090978
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Mr Bean" tvg-logo="http://l3d.us:25461/images/2424b5fe85d4c50cf04daf345531e28f.png" group-title="TV | 24/7 Retro",24/7 | Mr Bean
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090988
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Peppa Pig" tvg-logo="http://l3d.us:25461/images/17e62166fc8586dfa4d1bc0e1742c08b.png" group-title="TV | 24/7 Infantil",24/7 | Peppa Pig
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090892
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Pokemon" tvg-logo="http://l3d.us:25461/images/00bfc8c729f5d4d529a412b12c58ddd2.png" group-title="TV | 24/7 Infantil",24/7 | Pokemon
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090894
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | The Big Bang Theory" tvg-logo="http://l3d.us:25461/images/42bdb822861f59686530862aa50e5b99.png" group-title="TV | 24/7 Series",24/7 | The Big Bang Theory
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2091018
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Vaca y Pollito" tvg-logo="http://l3d.us:25461/images/83878c91171338902e0fe0fb97a8c47a.png" group-title="TV | 24/7 Infantil",24/7 | Vaca y Pollito
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090897
+#EXTINF:-1 tvg-id="" tvg-name="24/7: El chavo del 8" tvg-logo="http://l3d.us:25461/images/e82cf176531238b75cc6d34477058f5f.png" group-title="TV | 24/7 Series",24/7: El chavo del 8
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2091028
+#EXTINF:-1 tvg-id="" tvg-name="24/7: he man" tvg-logo="http://l3d.us:25461/images/2424b5fe85d4c50cf04daf345531e28f.png" group-title="TV | 24/7 Retro",24/7: he man
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090961
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Los locos Addams" tvg-logo="http://l3d.us:25461/images/2424b5fe85d4c50cf04daf345531e28f.png" group-title="TV | 24/7 Retro",24/7: Los locos Addams
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090981
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Mazingerz" tvg-logo="http://l3d.us:25461/images/2424b5fe85d4c50cf04daf345531e28f.png" group-title="TV | 24/7 Retro",24/7: Mazingerz
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090956
+#EXTINF:-1 tvg-id="" tvg-name="24/7: Spiderman" tvg-logo="http://l3d.us:25461/images/2424b5fe85d4c50cf04daf345531e28f.png" group-title="TV | 24/7 Retro",24/7: Spiderman
+http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090970
+

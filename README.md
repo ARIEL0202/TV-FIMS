@@ -69,8 +69,6 @@ http://sdmx.us:25461/Ivan3/QCxNLnabwF/2091492
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2133346
 #EXTINF:-1 tvg-id="" tvg-name="24/7 La Familia P. Luche " tvg-logo="http://atlantis-mx.com/logos/familiapeluche24.png" group-title="TV | 24/7 Series",24/7 La Familia P. Luche 
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/200378
-#EXTINF:-1 tvg-id="" tvg-name="24/7 La Rosa de Guadalupe" tvg-logo="http://atlantis-mx.com/logos/rosa24.png" group-title="TV | 24/7 Series",24/7 La Rosa de Guadalupe
-http://sdmx.us:25461/Ivan3/QCxNLnabwF/180593
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Las Pistas de Blue" tvg-logo="http://l3d.us:25461/images/48d6215903dff56238e52e8891380c8f.png" group-title="TV | 24/7 Infantil",24/7 Las Pistas de Blue
 http://sdmx.us:25461/Ivan3/QCxNLnabwF/2090906
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Los Años Maravillosos" tvg-logo="http://l3d.us:25461/images/2424b5fe85d4c50cf04daf345531e28f.png" group-title="TV | 24/7 Retro",24/7 Los Años Maravillosos
